@@ -1,7 +1,12 @@
 aid: ulta-beauty
-url: https://raw.githubusercontent.com/api-evangelist/ulta-beauty/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/ulta-beauty/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.ulta-beauty.com
+description: >-
+  Ulta Beauty is the largest beauty retailer in the United States, offering cosmetics,
+  fragrance, skin care products, hair care products, and salon services through retail
+  stores and online.
