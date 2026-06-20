@@ -7,7 +7,7 @@ description: >-
   an e-commerce platform. Ulta Beauty does not currently offer a public developer API,
   but provides an affiliate program through Impact for publishers and content creators.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Beauty
   - Retail
