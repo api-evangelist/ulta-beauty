@@ -67,7 +67,7 @@ common:
         description: Loyalty program with over 40 million members offering points, perks, and personalized offers.
       - name: Ulta Beauty Salon
         description: In-store salon services for hair, skin, and brows with online booking.
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://www.ulta.com/llms.txt
 maintainers:
   - FN: Kin Lane
